@@ -1,0 +1,9 @@
+{
+	"name": "covid-19-reporting-anas",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5625fb2a-02c1-4f6d-8f69-ecc5832a04ee",
+		"tenantId": "a06e0752-c746-4f2e-91d3-d87dd588c1a4"
+	}
+}
